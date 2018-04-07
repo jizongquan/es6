@@ -1,0 +1,4 @@
+在server文件下执行 express -e .
+然后在server下执行 npm install
+
+然后创建package npm init
